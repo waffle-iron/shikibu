@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/nukosuke/shikibu/issues"
   },
-  "homepage": "https://github.com/nukosuke/shikibu#readme"
+  "homepage": "https://github.com/nukosuke/shikibu#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
 }
