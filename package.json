@@ -1,0 +1,23 @@
+{
+  "name": "shikibu",
+  "version": "0.0.0",
+  "description": "provisioning tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nukosuke/shikibu.git"
+  },
+  "keywords": [
+    "provisioning",
+    "utils"
+  ],
+  "author": "nukosuke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nukosuke/shikibu/issues"
+  },
+  "homepage": "https://github.com/nukosuke/shikibu#readme"
+}
