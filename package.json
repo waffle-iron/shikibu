@@ -4,6 +4,7 @@
   "description": "provisioning tool",
   "main": "index.js",
   "scripts": {
+    "build": "./node_modules/.bin/tsc --project tsconfig.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
