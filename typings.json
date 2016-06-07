@@ -1,4 +1,8 @@
 {
   "name": "shikibu",
-  "dependencies": {}
+  "dependencies": {},
+  "ambientDependencies": {
+    "commander": "registry:dt/commander#2.3.0+20160317120654",
+    "lodash": "registry:dt/lodash#3.10.0+20160330154726"
+  }
 }
