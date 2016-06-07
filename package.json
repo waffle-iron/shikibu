@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "provisioning tool",
   "main": "index.js",
+  "bin": {
+    "shikibu": "./lib/bin/shikibu.js"
+  },
   "scripts": {
     "build": "./node_modules/.bin/tsc --project tsconfig.json",
     "test": "echo \"Error: no test specified\" && exit 1"
