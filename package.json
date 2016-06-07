@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/nukosuke/shikibu#readme",
   "dependencies": {
-    "commander": "^2.9.0"
+    "commander": "^2.9.0",
+    "lodash": "^4.13.1"
   }
 }
