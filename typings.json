@@ -1,8 +1,11 @@
 {
   "name": "shikibu",
-  "dependencies": {},
+  "dependencies": {
+    "npmlog": "registry:npm/npmlog#2.0.3+20160429172249"
+  },
   "ambientDependencies": {
     "commander": "registry:dt/commander#2.3.0+20160317120654",
+    "js-yaml": "registry:dt/js-yaml#3.5.2+20160316171810",
     "lodash": "registry:dt/lodash#3.10.0+20160330154726",
     "node": "registry:dt/node#6.0.0+20160602155235"
   }
